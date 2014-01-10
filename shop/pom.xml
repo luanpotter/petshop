@@ -6,7 +6,7 @@
 	<groupId>br.com.dextra.estagio.petshop</groupId>
 	<artifactId>shop-2014</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>war</packaging>
 	<name>Estagio 2014 - Shop</name>
 	<description>Projeto de exemplo de petshop - Módulo Shop</description>
 </project>
